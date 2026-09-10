@@ -14,13 +14,13 @@ I'm extending that foundation into **AI Data Engineering**, building retrieval, 
 
 ## Featured Projects
 
-### [AI Market Intelligence & Agent Platform](https://github.com/NikhitaDasari/databricks-lakebase-app-day-3)
+### [AI Market Intelligence & Agent Platform](https://github.com/NikhitaDasari/ai-market-agent-platform)
 
 Databricks-based agent platform combining **FastMCP, semantic retrieval, pgvector, external market APIs, and paper-trading tools**. Exposes market data, account context, vector search, watchlist operations, and controlled actions as MCP tools for agent integration.
 
 `Databricks Apps` `FastMCP` `Lakebase` `PostgreSQL` `pgvector` `Sentence Transformers` `REST APIs`
 
-### [AI Market Intelligence & Semantic Retrieval](https://github.com/NikhitaDasari/databricks-lakebase-app-day-2)
+### [AI Market Intelligence & Semantic Retrieval](https://github.com/NikhitaDasari/ai-market-semantic-retrieval)
 
 End-to-end AI data pipeline that ingests market and news data from external APIs, stores operational data in Lakebase, extracts and chunks full article content, generates embeddings with Spark and Sentence Transformers, and supports document- and passage-level semantic search with pgvector.
 
